@@ -40,7 +40,68 @@ Contains utility scripts for:
 
 ## Documentation
 ### doc/
-Contains project documentation and research paper
+Contains<div align="center">
+
+# 🎯 Darija Sentiment Analysis Platform
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+
+Sentiment analysis platform designed specifically for Darija (Moroccan Arabic)
+</div>
+
+## 📖 Overview
+
+Analyze sentiment in Darija text through:
+- ✍️ Direct text input
+- 🎥 YouTube video comments
+- 🔌 REST API integration
+
+## 🏗 Architecture
+
+<p align="center">
+  <img src="./Documents/architecture.png" alt="System Architecture">
+</p>
+
+### 📥 Input Options
+- **Text Analysis**: Direct Darija text input
+- **YouTube Integration**: Comment sentiment analysis via URL
+- **API Access**: Programmatic integration capabilities
+
+### 🔧 Backend Services (FastAPI)
+- Text & comment processing
+- ML model interaction
+- DynamoDB data management
+- RESTful API endpoints
+
+### 🎨 Web Interface (React.js)
+- Clean, intuitive UI
+- Real-time sentiment analysis
+- User feedback system
+
+### 💾 Data Storage (DynamoDB)
+- User input archival
+- Feedback collection
+- Performance metrics
+
+### 🧠 ML Model
+<p align="center">
+  <img src="./Documents/model_architecture.png" alt="Model Architecture">
+</p>
+
+## ⭐️ Core Features
+
+### 📊 Sentiment Analysis
+- Darija-optimized processing
+- Text & comment analysis
+- Binary classification (positive/negative)
+
+### 🔌 API Integration
+```bash
+curl -X POST "api/analyze" \
+     -H "Content-Type: application/json" \
+     -d '{"text": "زوين بزاف"}' project documentation and research paper
 
 ## Automation
 ### AutoWorkflow/
