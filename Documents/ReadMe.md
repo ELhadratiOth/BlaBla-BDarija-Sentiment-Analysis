@@ -1,10 +1,5 @@
 # Darija Project Structure
 ### NB : the Datasets and the Notebooks can contain some bad words 
-## Darija_App (React + FastAPI)
-Contains all components required to run the application:
-- Frontend implementation
-- Backend server
-- GitHub workflow scripts for backend server availability
 
 ## Data Preparation
 ### json-s/
