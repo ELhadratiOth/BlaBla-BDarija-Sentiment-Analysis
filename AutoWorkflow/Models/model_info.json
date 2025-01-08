@@ -1,0 +1,8 @@
+{
+    "total_samples": 35015,
+    "samples_per_class": 17507,
+    "model_path": "sentiment_model.joblib",
+    "vectorizer_path": "vectorizer.joblib",
+    "feature_count": 152163,
+    "training_date": "2024-12-22 18:29:56"
+}

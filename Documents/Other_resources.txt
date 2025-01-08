@@ -1,0 +1,6 @@
+
+Medium article about clustering using Embedings: https://medium.com/@20pd11/unveiling-text-clustering-exploring-algorithms-and-text-embeddings-1f8776a84ddb
+paper about clustering using Bert Embedings : https://github.com/rakmakan/Clustering-with-BERT/blob/main/Project_report.pdf
+MorrBert paper : https://mendel-journal.org/index.php/mendel/article/view/223/200
+DarijaBert in huggingface : https://huggingface.co/SI2M-Lab/DarijaBERT / https://huggingface.co/SI2M-Lab/DarijaBERT-arabizi / MorrBert
+Krish Naik video about NLP : https://www.youtube.com/watch?v=ENLEjGozrio&t=10420s

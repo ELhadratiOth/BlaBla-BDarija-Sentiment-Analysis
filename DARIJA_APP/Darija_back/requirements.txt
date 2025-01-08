@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+joblib
+python-dotenv
+numpy
+boto3
+google-api-python-client
+pandas
+pyarabic
+tashaphyne
+emoji
+python-multipart
+scikit-learn

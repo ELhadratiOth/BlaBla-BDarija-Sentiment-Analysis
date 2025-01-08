@@ -1,0 +1,4 @@
+.env
+/App/node_modules/
+venv/
+.vercel
