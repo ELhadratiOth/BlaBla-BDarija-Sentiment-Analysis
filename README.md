@@ -93,8 +93,10 @@ We welcome collaboration to make the **Darija Sentiment Analysis Platform** even
 
 ---
 
-## Contact Me:
+## Contact Me
+
 Feel free to reach out with questions, suggestions, or opportunities to collaborate.  
-📧 Email: [mailto:othmanelhadrati@gmail.com](mailto:othmanelhadrati@gmail.com)
+
+📧 **Email**: [othmanelhadrati@gmail.com](mailto:othmanelhadrati@gmail.com)
 
 Let's work together to advance sentiment analysis for Darija! 🎉
