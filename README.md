@@ -2,9 +2,14 @@
 
 ## Overview
 
+This project is a sentiment analysis platform specifically designed for Darija (Moroccan Arabic). Users can analyze sentiment by either inputting simple text or providing a YouTube video URL to evaluate the average sentiment of its comments. Developers can also leverage a REST API to integrate the sentiment analysis model into their own applications.
 
-- This project is a sentiment analysis platform specifically designed for Darija (Moroccan Arabic). Users can analyze sentiment by either inputting simple text or providing a YouTube video URL to evaluate the average sentiment of its comments. Developers can also leverage a REST API to integrate the sentiment analysis model into their own applications.
-- Web Application Link: [Click Me](https://blabla-bdarija.vercel.app)
+### **Explore the Platform**
+
+Visit the web application to experience the platform in action:  
+[**Try it Here**](https://blabla-bdarija.vercel.app)
+
+![Darija Sentiment Analysis Web Page](./Documents/WebUI.png)
 
 ---
 
@@ -12,7 +17,7 @@
 
 The system is composed of the following components:
 
-![Alt Text](./Documents/architecture.png)
+![Architecture Diagram](./Documents/architecture.png)
 
 ### **1. Input Options**
 
@@ -45,10 +50,10 @@ The system is composed of the following components:
 - A sentiment analysis model trained for Darija, capable of classifying input as **positive** or **negative**.
 - Continuously improved through user feedback.
 
-for  more info about the Model : [Model Research Paper](./Documents/Research-Paper.pdf)
+For more information about the model:  
+[**Read the Research Paper**](./Documents/Research-Paper.pdf)
 
 ---
-
 
 ## Core Features
 
@@ -76,6 +81,20 @@ for  more info about the Model : [Model Research Paper](./Documents/Research-Pap
 - **Backend**: FastAPI
 - **Machine Learning**: Custom model trained for Darija sentiment analysis
 - **Cloud Services**:
-  - **DynamoDB**: to store user inputs and feedbacks
-  - **Amazon S3**: Store the Model (to make it accessible for both the App and the re-training Workflow)
+  - **DynamoDB**: To store user inputs and feedback
+  - **Amazon S3**: Stores the model (accessible for the app and re-training workflow)
 - **Automation**: Feedback-driven re-training workflow using Power Automate
+
+---
+
+## Collaborate with Me
+
+We welcome collaboration to make the **Darija Sentiment Analysis Platform** even better!  
+
+---
+
+## Contact Me:
+Feel free to reach out with questions, suggestions, or opportunities to collaborate.  
+📧 Email: [mailto:othmanelhadrati@gmail.com](mailto:othmanelhadrati@gmail.com)
+
+Let's work together to advance sentiment analysis for Darija! 🎉
