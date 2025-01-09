@@ -4,7 +4,7 @@
 
 This project is a sentiment analysis platform specifically designed for Darija (Moroccan Arabic). Users can analyze sentiment by either inputting simple text or providing a YouTube video URL to evaluate the average sentiment of its comments. Developers can also leverage a REST API to integrate the sentiment analysis model into their own applications.
 
-### **Explore the Platform**
+## Explore the Platform
 
 Visit the web application to experience the platform in action:  
 [**Try it Here**](https://blabla-bdarija.vercel.app)
